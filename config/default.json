@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://Blade:Blade69@bladecluster.93kuisj.mongodb.net/Thoughts?retryWrites=true&w=majority",
+    "jwtSecret":"YOLO"
+}
